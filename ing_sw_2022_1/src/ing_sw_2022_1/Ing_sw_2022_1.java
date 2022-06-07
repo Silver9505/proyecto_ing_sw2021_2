@@ -18,6 +18,7 @@ public class Ing_sw_2022_1 {
         // hola a todos
         System.out.print ("hola mundo");
         System.out.print ("primer git");
+        System.out.println("prueba1");
     }
     
 }
