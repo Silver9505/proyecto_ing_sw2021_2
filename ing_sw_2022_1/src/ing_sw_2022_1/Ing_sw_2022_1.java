@@ -17,7 +17,7 @@ public class Ing_sw_2022_1 {
         // TODO code application logic here
         // hola a todos
         System.out.print ("hola mundo");
-        System.out.println("prueba_prieto");
+        System.out.println("prueba_prieto1");
     }
     
 }
