@@ -16,8 +16,7 @@ public class Ing_sw_2022_1 {
     public static void main(String[] args) {
         // TODO code application logic here
         // hola a todos
-        System.out.print ("hola mundo");
-        System.out.print ("primer git");
+        System.out.print ("hola mundo este es el master");
     }
     
 }
